@@ -18,5 +18,8 @@ git checkout develop - переключится на ветку develop
 git pull origin master - переместить изменения с гитхаба в локальный проект
 
 git branch -d develop - удаление ветки девелоп
-git merge
+git merge feature/main-page  - слияние feature/main-page с текущей
+git pusch origin master
+
+
 
